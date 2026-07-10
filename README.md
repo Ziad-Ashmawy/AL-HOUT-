@@ -10,7 +10,6 @@
 - **Yousef Rapie Saluma**
 - **Ismael Hasanein Gomaa**
 - **Muhammad Ahmed Muhammad**
-- **Farida Mohamed Farouk**
 
 ---
 
